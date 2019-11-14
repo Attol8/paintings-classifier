@@ -1,6 +1,3 @@
-# Painting CLassifier
-This project is a part of the [Data Science Art project](insert link) at [Insert Link](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at [my github page](https://github.com/sfbrigade/data-science-wg).
-
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
@@ -21,9 +18,6 @@ The purpose of this project is to train a painting classifier that correctly lab
 * Jupyter
 * Google Cloud Storage
 * Fastai Library
-
-## Project Description
-Insert results and mai nmethodoligies used here
 
 ## Needs of this project
 
