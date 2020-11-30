@@ -30,7 +30,7 @@ The purpose of this project is to train a painting classifier that correctly lab
 
 the complete EDA (exploratory data Analysis), model training and testing can be found by clicking on the links below, which will redirect to the jupyter notebooks created for the project.
 
-* [Painting Classfier notebook](link)
+* [Painting Classfier notebook](https://github.com/Attol8/paintings-classifier/blob/master/Paintings_Classifier_kaggle.ipynb)
 
 ## Contact
 
